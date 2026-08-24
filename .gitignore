@@ -1,0 +1,19 @@
+# LaTeX build output & logs
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.bcf
+*.run.xml
+*.nav
+*.snm
+
+# System & Editor temporary files
+*.swp
+*~
+.DS_Store
